@@ -10,7 +10,7 @@ This project
 
 ![movie 1](https://user-images.githubusercontent.com/127226487/229732644-814fff8b-c4fc-46da-baec-090acdc1fd2c.jpg)
 
-![movie 3 ](https://user-images.githubusercontent.com/127226487/229733060-dcbfa9f2-a13d-41f1-9746-13a1f4d5f01d.jpg)
+![MOvies 2](https://user-images.githubusercontent.com/127226487/229734519-a152f942-8a84-451a-94f4-0ceb8677c31b.JPG)
 
 ![movie 2](https://user-images.githubusercontent.com/127226487/229733164-0c186809-3463-42b8-be8a-4eb0c976947c.JPG)
 
