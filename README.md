@@ -8,6 +8,14 @@ This project
 
 ## screenshots
 
+![movie 1](https://user-images.githubusercontent.com/127226487/229732644-814fff8b-c4fc-46da-baec-090acdc1fd2c.jpg)
+
+![movie 3 ](https://user-images.githubusercontent.com/127226487/229733060-dcbfa9f2-a13d-41f1-9746-13a1f4d5f01d.jpg)
+
+![movie 2](https://user-images.githubusercontent.com/127226487/229733164-0c186809-3463-42b8-be8a-4eb0c976947c.JPG)
+
+
+
 ### project
 
 ## SetUp Instructions
@@ -62,6 +70,6 @@ https://ephemeral-banoffee-b70b55.netlify.app/
 
 muhurimwangi002@gmail.com
 
-##LICENSE
+## LICENSE
 
 MIT License Copyright (c) 2023 Humphrey Muhuri
