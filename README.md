@@ -29,7 +29,8 @@ This project
 
 4.VISUAL STUDIO CODE(TEXT EDITOR)
 
-Getting files
+## Getting files
+
 1.Fork the repo
 
 2.Create a new branch in your terminal (git checkout -b improve-feature)
