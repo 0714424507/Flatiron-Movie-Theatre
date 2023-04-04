@@ -88,7 +88,7 @@ function dataForEach(filmData) {
 function buyTickets(filmData) {
   console.log("ticket purchased", filmData);
 
-  if (displayedFilm.tickets_sold > displayedFilm.capacity) {
+  if (displayedFilm.capacity<= displayedFilm.tickets_sold) {
     document.getElementById("errorMessage").innerHTML = "Tickets sold out";
   } else {
     displayedFilm.tickets_sold ++;
